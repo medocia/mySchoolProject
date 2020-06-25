@@ -1,0 +1,6 @@
+value = input().split()
+a = int(value[0])
+b = int(value[1])
+c = int(value[2])
+maior = max(a,b,c)
+print(maior,"eh o maior")
